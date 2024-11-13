@@ -38,8 +38,8 @@ RabbitMQ
 
 ## Personal & Profesional information (CVs)
 
-[mybackground](https://github.com/escrimaglia/myrepo/tree/main/Mybackground)
+[mybackground](https://github.com/escrimaglia/mypersonalrepo/tree/main/Mybackground)
 
 ## Code Examples
 
-[Network Automation](https://github.com/escrimaglia/myrepo/tree/main/Code)
+[Network Automation](https://github.com/escrimaglia/mypersonalrepo/tree/main/Code)
