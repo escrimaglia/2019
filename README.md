@@ -42,4 +42,4 @@ RabbitMQ
 
 ## Code Examples
 
-[Network Automation](https://github.com/escrimaglia/mypersonalrepo/tree/main/Code)
+[Automation Code](https://github.com/escrimaglia/mypersonalrepo/tree/main/Code)
